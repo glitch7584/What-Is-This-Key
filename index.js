@@ -1,0 +1,1 @@
+$(document).keypress(function (t) { $("h2").attr("id", "output"), $("h2").text(t.key) });
